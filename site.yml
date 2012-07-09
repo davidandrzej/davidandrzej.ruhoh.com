@@ -1,16 +1,14 @@
-title : Blog Title
-tagline: Blog Tagline
+title: David's Test Blog
+tagline: Testing Testing Testing
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : David Andrzejewski
+  email : david.andrzej@gmail.com
+  github : davidandrzej
+  twitter : davidandrzej
 
 navigation :
   - archive.html
   - tags.html
   - categories.html
-  - pages.html
   - about.md
   

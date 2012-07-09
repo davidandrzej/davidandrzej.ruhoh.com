@@ -1,6 +1,6 @@
 ---
-title : About Me
+title : About
 description:
 ---
 
-Hello, how are you?
+See [my site](http://www.david-andrzejewski.com/) for more info.

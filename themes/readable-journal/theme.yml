@@ -1,7 +1,7 @@
 {
   "stylesheets" : {
     "default" : [
-      "bootstrap.min.css",
+      "bootstrap.css",
       "style.css"
     ],
    
