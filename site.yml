@@ -6,6 +6,8 @@ author :
   github : davidandrzej
   twitter : davidandrzej
 
+images : https://s3.amazonaws.com/davidandrzej-blog
+
 navigation :
   - archive.html
   - tags.html
