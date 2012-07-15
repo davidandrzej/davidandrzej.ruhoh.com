@@ -1,7 +1,7 @@
 ---
 title: 'Static blogging with ruhoh'
 date: '2012-07-13'
-description: 
+tagline: Keep it simple
 categories: writing
 tags: [software, organization, productivity]
 ---
