@@ -15,6 +15,7 @@ display it by
 * using [Google Prettify](http://code.google.com/p/google-code-prettify/)
 
 ### GitHub gist embedding
+
 <script src="https://gist.github.com/970144.js"> </script>
 
 ### Google Prettify
