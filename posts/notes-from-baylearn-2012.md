@@ -146,7 +146,7 @@ As it turns out, Coursera is _also_ offering a free online course in
 [Probabilistic Graphical Models](https://www.coursera.org/course/pgm),
 taught by [Daphne Koller](http://ai.stanford.edu/~koller/).
 
-### Other highlights
+## Other highlights
 
 * [Guaranteed Sparse Optimization on the Probability Simplex via Convex Programming](https://docs.google.com/file/d/0Bxf-khCt_eknNjZxRi11NktQcnc/edit?pli=1)
 (Laurent El Ghaoui, UC Berkeley; Mert Pilanci, UC Berkeley; Venkat
