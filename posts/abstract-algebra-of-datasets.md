@@ -4,8 +4,6 @@ date: '2013-04-30'
 tagline: 'and, who cares?'
 categories: 'data'
 tags: [algorithms, theory]
-
-type: draft
 ---
 
 ### Why does Map-Reduce work?
