@@ -1,5 +1,4 @@
-My [ruhoh](http://ruhoh.com) static blog. See <http://ruhoh.com/usage>
-for more info about how this works.
+My [ruhoh](http://ruhoh.com) static blog. 
 
 ## Theme modifications
 
