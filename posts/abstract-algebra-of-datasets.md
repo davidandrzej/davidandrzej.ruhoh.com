@@ -143,3 +143,13 @@ this domain.
 * MATH 240H Notes: Binary Operations, Monoids, Groups and Examples -
   abstract algebra notes
   ([pdf](http://www.math.rochester.edu/courses/240H/home/Groups.pdf))
+
+#### UPDATE 5/1/2013
+
+_Nearly simultaneously_ with this post,
+[Jimmy Lin](http://www.umiacs.umd.edu/~jimmylin/) posted a very
+interesting paper about the practical consequences of monoids for the
+"combiner" processing stage of Map-Reduce : "Monoidify! Monoids as a
+Design Principle for Efficient MapReduce Algorithms"
+([arXiv](http://arxiv.org/abs/1304.7544)).
+    
