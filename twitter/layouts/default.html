@@ -36,14 +36,13 @@
     <div class="navbar">
       <div class="navbar-inner">
         <div class="container-narrow">
-          <a class="brand" href="{{urls.base_path}}">{{ data.title }}</a>
+          <a class="brand" href="{{urls.base_path}}">{{ data.title }}</a>            
           <ul class="nav">
             {{# data.navigation?to__root }}
               {{> pages_list }}
             {{/ data.navigation?to__root }}
             <li><a href="{{urls.base_path}}/rss.xml">RSS</a></li>
           </ul> 
-         <p class="navbar-text pull-right">{{ data.tagline }}</p>
         </div>
       </div>
     </div>
