@@ -1,0 +1,17 @@
+title: "Bayes' Cave"
+tagline: Artisanal ones and zeros
+author :
+  name : David Andrzejewski
+  email : david.andrzej@gmail.com
+  github : davidandrzej
+  twitter : davidandrzej
+
+images : https://s3.amazonaws.com/davidandrzej-blog
+
+navigation :
+  - archive
+  - tags
+  - categories  
+  - about
+  - rss
+  

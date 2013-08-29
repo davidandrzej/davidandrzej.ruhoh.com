@@ -5,6 +5,7 @@ description: Testing MathJax
 categories: test
 tags: [software, math]
 ---
+{{{ widgets.mathjax.mathjax }}}
 
 It is very useful to have nicely formatted equations in blog posts.
 The test example below uses the [MathJax](http://www.mathjax.org/)
