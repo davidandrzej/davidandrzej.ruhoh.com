@@ -24,26 +24,7 @@ Some "note to self" reminders about the way I've used ruhoh to set up this blog.
 
 #### mathjax
 
-* put this html in `widgets/mathjax/default.html` (original source: [this Github discussion](https://github.com/ruhoh/ruhoh.rb/issues/46#issuecomment-6988308))
-```html
-<!-- INSERT MATHJAX CONFIGURATION FROM MATH.STACKEXCHANGE -->
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    jax: ["input/TeX", "output/HTML-CSS"],
-    tex2jax: {
-      inlineMath: [ ['$', '$'] ],
-      displayMath: [ ['$$', '$$']],
-      processEscapes: true,
-      skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
-    },
-    messageStyle: "none",
-    "HTML-CSS": { preferredFont: "TeX", availableFonts: ["STIX","TeX"] }
-  });
-</script>
-<script type="text/javascript"
-        src="https://c328740.ssl.cf1.rackcdn.com/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
-```
+* put [this html](https://gist.github.com/davidandrzej/6381171) in `widgets/mathjax/default.html` (original source: [this Github discussion](https://github.com/ruhoh/ruhoh.rb/issues/46#issuecomment-6988308))
 * add `{{{ widgets.mathjax }}}` in the theme `default.html` file
 * note that underscores will not work properly unless you wrap in a `<div>` block (see discussion linked above)
 * also see [discussion](https://github.com/ruhoh/ruhoh.rb/issues/209#issuecomment-23464200)
